@@ -1,0 +1,33 @@
+
+
+.de-lado{
+ margin: 10px;
+
+border: 2px solid grey;
+float: left;
+width: auto;
+
+}
+.centrado{
+display: flex;
+justify-content:center ;
+}
+.galeria{
+margin: 5px;
+padding: 1px;
+border: 2px solid grey;
+float: left;
+width: 100%;
+
+
+}
+div .galeria img{
+width: 100%;
+height: auto;
+
+
+}
+.descripcion{
+    padding: 15px;
+    text-align: center;
+}
